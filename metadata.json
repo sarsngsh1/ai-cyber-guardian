@@ -1,0 +1,6 @@
+{
+  "name": "AI Cyber Guardian",
+  "description": "Sindh Student Protection System — Multilingual AI Scam Message Detector, Suspicious Website Link Checker, Cyberbullying Detector, and Online Safety Guide in English, Urdu, and Sindhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
